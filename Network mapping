@@ -1,0 +1,5 @@
+Nmap (network mapper) is an open source software that is used to find vulnerabilities on a network by scanning through different ports.
+
+Port scanning is Nmaps core functionality but it also can be used to collect characteristics of a network such as what services are being run and their version number, the operating systems being used and whether there are any firewall rules/packet filters.
+
+Knowing this information as a hacker or security expert is an important step in identifying any weaknesses a system may have and the potential exploits that can be used.
